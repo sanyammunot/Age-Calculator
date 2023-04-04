@@ -15,7 +15,7 @@
     justify-content:center;
     flex-direction:column;
     background-color:darkslateblue;
-    box-shadow:8px 8px black;
+    box-shadow:7px 7px black;
     color:white;
     padding:5% 0%;
 }
@@ -60,13 +60,13 @@ button:hover{
     justify-content:center;
     flex-direction: column;
     text-align: center;
-    width:620px;
+    width:630px;
     height:480px;
     background-color:rgb(228, 91, 91);
     border-radius:30px;
     position:absolute;
     top:18%;
-    left:26%;
+    left:26.55%;
     visibility: hidden;
 }
 
